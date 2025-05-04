@@ -1,14 +1,14 @@
 <br clear="both">
 
 <h3 align="left">👋Hi there, I'm Pham Anh Tuan Dev.</h3>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=trongnd106&label=Profile%20views&color=0e75b6&style=flat" alt="trongnd106" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=tuanpa06&label=Profile%20views&color=0e75b6&style=flat" alt="tuanpa06" /> </p>
 
 ###
 
 <br clear="both">
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=trongnd106&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=trongnd106&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=tuanpa06&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=tuanpa06&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
 ###
